@@ -1,5 +1,7 @@
 # portfolio
-Welcome, welcome.  Despite working in software for years, I have allowed my contributions to be wholely done on private repos, invisible to the public and owned by others.
+Welcome, Welcome!  
+
+Despite working in software for years, I have allowed my contributions to be wholely done on private repos, invisible to the public and owned by others.
 
 It is about time I actually put up my own portfolio.
 
