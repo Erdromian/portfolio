@@ -10,6 +10,10 @@ This whole thing shall be public:
  - To force proper secret management
  - To pad my git commits /s
 
+## Run Local
+
+```bundle exec jekyll serve```
+
 ## Blog
 TODO.  Wordpress.
 If it's good enough for https://www.joelonsoftware.com/ it's good enough for me.
