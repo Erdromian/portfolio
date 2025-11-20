@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Welcome, Welcome!  
 
 Despite working in software for years, I have allowed my contributions to be wholely done on private repos, invisible to the public and owned by others.
