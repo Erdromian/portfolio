@@ -1,2 +1,10 @@
 # portfolio
-Simple portfolio root.
+It is about time I actually put up my own portfolio.
+This whole thing shall be public:
+ - To face my fear of open creation, and the ensuing criticism
+ - To force proper secret management
+ - Transparency
+
+## Blog
+TODO.  Wordpress.
+If it's good enough for https://www.joelonsoftware.com/ it's good enough for me.
